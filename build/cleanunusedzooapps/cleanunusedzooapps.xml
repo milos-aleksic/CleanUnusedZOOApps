@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.2" type="plugin" group="system" method="upgrade" >
+	<name>Clean unused ZOO aps System Plugin</name>
+	<author>YOOtheme</author>
+	<creationDate>September 2022</creationDate>
+	<copyright>Copyright (C) YOOtheme GmbH</copyright>
+	<license>https://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 only</license>
+	<assetsLicense>YOOtheme Proprietary Use License (https://yootheme.com/license)</assetsLicense>
+	<authorEmail>info@yootheme.com</authorEmail>
+	<authorUrl>https://yootheme.com</authorUrl>
+	<version>1.0</version>
+	<description></description>
+	<files>
+		<filename plugin="cleanunusedzooapps">cleanunusedzooapps.php</filename>
+        <folder>assets</folder>
+	</files>
+</extension>
