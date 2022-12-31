@@ -12,6 +12,5 @@
 	<description></description>
 	<files>
 		<filename plugin="cleanunusedzooapps">cleanunusedzooapps.php</filename>
-        <folder>assets</folder>
 	</files>
 </extension>
